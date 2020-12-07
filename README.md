@@ -5,7 +5,6 @@ SAA0356 - Sistemas Embarcados para Veículos Aéreos (2020/2)
 Bruno Henrique Gati - Nº 11222482  
 Luís Filipe Vasconcelos Peres - Nº 10310641  
 Luiz Mauricio Dias Rodrgiues - N° 9805932  
-Pedro Arthur Galvão Pizarro - Nº 10748455  
 
 ## Escopo do Projeto
 
