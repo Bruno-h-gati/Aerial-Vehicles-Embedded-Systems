@@ -33,4 +33,5 @@ Os requisitos propostos são os seguintes:
 
 Os demais detalhes e especificações dos Requisitos Funcionais estão dispostos [neste arquivo](requisitos.pdf).
 
-<img src="https://ibb.co/09FD7s1">
+
+<img src="vertical2.png" width="100">
