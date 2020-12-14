@@ -1,8 +1,8 @@
+# Universidade de São Paulo
+## Escola de Engenharia de São Carlos
+
 # Aerial-Vehicles-Embedded-Systems
 SAA0356 - Sistemas Embarcados para Veículos Aéreos (2020/2)
-
-# Universidade de São Pauo
-## Escola de Engenharia de São Carlos
 
 ## Alunos:
 | Nome | Nº USP |
