@@ -1,11 +1,17 @@
 # Aerial-Vehicles-Embedded-Systems
 SAA0356 - Sistemas Embarcados para Veículos Aéreos (2020/2)
 
+# Universidade de São Pauo
+## Escola de Engenharia de São Carlos
+
 ## Alunos:
 | Nome | Nº USP |
 | ----------- | ----------- |
 |Bruno Henrique Gati | 11222482|
 |Luiz Mauricio Dias Rodrigues | 9805932|
+
+## Docente:
+Profº Dr. Glauco Augusto de Paula Caurin
 
 ## Escopo do Projeto
 
