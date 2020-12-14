@@ -5,7 +5,6 @@ SAA0356 - Sistemas Embarcados para Veículos Aéreos (2020/2)
 | Nome | Nº USP |
 | ----------- | ----------- |
 |Bruno Henrique Gati | 11222482|
-|Luís Filipe Vasconcelos Peres | 10310641|
 |Luiz Mauricio Dias Rodrigues | 9805932|
 
 ## Escopo do Projeto
@@ -26,6 +25,6 @@ Os requisitos propostos são os seguintes:
 - **Servomotor**: O servomotor deve ter capacidade de defletir as aletas, possuindo torque suficiente para isso.
 
 
-- **Telemetria**: A telemetria enviará os dados obtidos pelos sensores para uma base em solo.
-
 Os demais detalhes e especificações dos Requisitos Funcionais estão dispostos [neste arquivo](requisitos.pdf).
+
+<img src="https://ibb.co/09FD7s1">
