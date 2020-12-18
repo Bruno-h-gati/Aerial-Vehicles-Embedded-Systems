@@ -30,9 +30,9 @@ Os requisitos propostos são os seguintes:
 
 - **Servomotor**: O servomotor deve ter capacidade de defletir as aletas, possuindo torque suficiente para isso.
 
-Os demais detalhes e especificações dos Requisitos Funcionais estão dispostos [neste arquivo](requisitos.pdf).
+Os demais detalhes e especificações dos Requisitos Funcionais estão dispostos abaixo:
+<img src="Requisitos.png" width="1000">
 
 ## Arquitetura de projeto
-
 
 <img src="vertical2.png" width="1000">
