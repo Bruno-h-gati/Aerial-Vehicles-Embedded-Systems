@@ -86,9 +86,9 @@ Declaração de variáveis
 
 Declaração de funções
 
-<img src="controle.png" width="300">
+<img src="controle.png" width="600">
 
-<img src="controle2.png" width="300">
+<img src="controle2.png" width="600">
 
 
 
