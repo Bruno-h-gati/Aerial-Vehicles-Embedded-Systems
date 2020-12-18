@@ -60,4 +60,12 @@ Já o MPU6050 é um acelerômetro e giroscópio, que fornecerá ao microcontrola
 
 <img src="MPU6050.png" width="300">
 
+### Subsistema de controle
+
+O objetivo desse subsistema é mover o servomotor e garantir a estabilidade do foguete
+
+Os componentes desse subsistema são o servomotor, o módulo da Toradex VF50 e a Viola V1.2
+
+
+
 
