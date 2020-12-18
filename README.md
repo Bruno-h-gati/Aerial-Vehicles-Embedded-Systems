@@ -72,6 +72,6 @@ O servomotor irá movimentar as aletas
 
 O módulo VF50 e a Viola V1.2 irão receber os dados do subsistema de sensores e coordenar os movimentos com base no software instalado
 
-<img src="servomotor.png" width="300">
+<img src="vf50.png" width="300">
 
 
