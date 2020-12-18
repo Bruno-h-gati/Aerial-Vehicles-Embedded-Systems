@@ -92,7 +92,8 @@ Organização do controle
 
 Altímetro
 
-<img src="controle2.png" width="600">
+<img src="c_altimetro.png" width="600">
+<img src="c_altimetro2.png" width="600">
 
 Acelerômetro
 
