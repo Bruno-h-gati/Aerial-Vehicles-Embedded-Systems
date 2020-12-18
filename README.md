@@ -34,8 +34,13 @@ Os demais detalhes e especificações dos Requisitos Funcionais estão dispostos
 
 <img src="Requisitos.png" width="1000">
 
-## Arquitetura de projeto
+## Arquitetura do projeto
 <img src="Arquitetura.png" width="600">
 
+## Visualização do foguete
+<img src="vertical3.png" width="600">
 
-<img src="vertical2.png" width="600">
+## Subsistemas
+O projeto foi dividido em dois subsistemas: dados e controle, que serão destrinchados a seguir
+### Subsistema de dados
+
