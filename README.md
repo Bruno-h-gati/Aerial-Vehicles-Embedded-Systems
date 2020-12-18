@@ -38,10 +38,12 @@ Os demais detalhes e especificações dos Requisitos Funcionais estão dispostos
 <img src="Arquitetura.png" width="600">
 
 ## Visualização do foguete
-A seta vermelha representa as aletas móveis e a seta azul representa as aletas fixas
+A seta vermelha representa as aletas móveis e a seta azul representa as aletas fixas:
+
 <img src="vertical3.png" width="600">
 
 ## Subsistemas
 O projeto foi dividido em dois subsistemas: dados e controle, que serão destrinchados a seguir
+
 ### Subsistema de dados
 
