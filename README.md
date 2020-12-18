@@ -84,11 +84,22 @@ Declaração de variáveis
 
 <img src="d_variaveis.png" width="300">
 
-Declaração de funções
+Organização do controle
 
 <img src="controle.png" width="600">
 
 <img src="controle2.png" width="600">
 
+Altímetro
+
+<img src="controle2.png" width="600">
+
+Acelerômetro
+
+<img src="controle2.png" width="600">
+
+Impressão dos dados e ação da função do controle
+
+<img src="controle2.png" width="600">
 
 
