@@ -34,4 +34,4 @@ Os requisitos propostos são os seguintes:
 Os demais detalhes e especificações dos Requisitos Funcionais estão dispostos [neste arquivo](requisitos.pdf).
 
 
-<img src="vertical2.png" width="100">
+<img src="vertical2.png" width="1000">
