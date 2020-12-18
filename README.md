@@ -35,5 +35,7 @@ Os demais detalhes e especificações dos Requisitos Funcionais estão dispostos
 <img src="Requisitos.png" width="1000">
 
 ## Arquitetura de projeto
+<img src="Arquitetura.png" width="600">
 
-<img src="vertical2.png" width="1000">
+
+<img src="vertical2.png" width="600">
