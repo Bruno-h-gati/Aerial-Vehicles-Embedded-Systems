@@ -86,9 +86,9 @@ Declaração de variáveis
 
 Organização do controle
 
-<img src="controle.png" width="600">
+<img src="controle.png" width="1000">
 
-<img src="controle2.png" width="600">
+<img src="controle2.png" width="1000">
 
 Altímetro
 
