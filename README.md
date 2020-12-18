@@ -97,7 +97,7 @@ Altímetro
 
 Acelerômetro
 
-<img src="acelerometro.png" width="600">
+<img src="acelerometro.png" width="1000">
 
 Impressão dos dados e ação da função do controle
 
