@@ -62,9 +62,15 @@ Já o MPU6050 é um acelerômetro e giroscópio, que fornecerá ao microcontrola
 
 ### Subsistema de controle
 
-O objetivo desse subsistema é mover o servomotor e garantir a estabilidade do foguete
+O objetivo desse subsistema é mover e controlar o servomotor e garantir a estabilidade do foguete
 
 Os componentes desse subsistema são o servomotor, o módulo da Toradex VF50 e a Viola V1.2
+
+O servomotor irá movimentar as aletas
+
+<img src="servomotor.png" width="300">
+
+O módulo VF50 e a Viola V1.2 irão receber os dados do subsistema de sensores e coordenar os movimentos com base no software instalado
 
 <img src="servomotor.png" width="300">
 
