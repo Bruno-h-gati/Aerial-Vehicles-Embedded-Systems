@@ -97,10 +97,10 @@ Altímetro
 
 Acelerômetro
 
-<img src="controle2.png" width="600">
+<img src="acelerometro.png" width="600">
 
 Impressão dos dados e ação da função do controle
 
-<img src="controle2.png" width="600">
+<img src="imprime.png" width="600">
 
 
