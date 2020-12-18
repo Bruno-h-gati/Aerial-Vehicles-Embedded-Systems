@@ -81,8 +81,14 @@ Declaração de bibliotecas
 <img src="d_bibliotecas.png" width="300">
 
 Declaração de variáveis
+
 <img src="d_variaveis.png" width="300">
 
 Declaração de funções
+
+<img src="controle.png" width="300">
+
+<img src="controle2.png" width="300">
+
 
 
