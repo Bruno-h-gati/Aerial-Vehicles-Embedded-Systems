@@ -66,6 +66,6 @@ O objetivo desse subsistema é mover o servomotor e garantir a estabilidade do f
 
 Os componentes desse subsistema são o servomotor, o módulo da Toradex VF50 e a Viola V1.2
 
-
+<img src="servomotor.png" width="300">
 
 
