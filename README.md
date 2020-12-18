@@ -76,9 +76,13 @@ O módulo VF50 e a Viola V1.2 irão receber os dados do subsistema de sensores e
 
 ## Trechos do código
 
-Declaração de variáveis e funções
+Declaração de bibliotecas
 
-<img src="vf50.png" width="300">
-<img src="vf50.png" width="300">
+<img src="d_bibliotecas.png" width="300">
+
+Declaração de variáveis
+<img src="d_variaveis.png" width="300">
+
+Declaração de funções
 
 
