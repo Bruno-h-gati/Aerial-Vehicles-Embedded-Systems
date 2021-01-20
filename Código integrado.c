@@ -1,5 +1,5 @@
 //Bibliotecas gerais:
-
+//...
 //Relativas ao BMP280
 #include <stdio.h>
 #include <stdlib.h>
