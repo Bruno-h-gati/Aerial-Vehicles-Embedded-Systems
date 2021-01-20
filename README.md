@@ -8,7 +8,7 @@ SAA0356 - Sistemas Embarcados para Veículos Aéreos (2020/2)
 | Nome | Nº USP |
 | ----------- | ----------- |
 |Bruno Henrique Gati | 11222482|
-|Luiz Mauricio Dias Rodrigues | 9805932|
+|Luiz Mauricio D. Rodrigues | 9805932|
 
 ## Docente:
 Profº Dr. Glauco Augusto de Paula Caurin
